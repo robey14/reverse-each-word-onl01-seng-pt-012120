@@ -16,4 +16,3 @@ def reverse_word_order(sentence)
 end
 
 puts reverse_word_order("This is a sentence to reverse the word order of
-end 
